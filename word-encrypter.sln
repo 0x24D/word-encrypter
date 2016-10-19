@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "word-encrypter", "word-encrypter\word-encrypter.vcxproj", "{D10A7351-8000-4C10-96E7-5C2B3C2D99B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D10A7351-8000-4C10-96E7-5C2B3C2D99B9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D10A7351-8000-4C10-96E7-5C2B3C2D99B9}.Debug|Win32.Build.0 = Debug|Win32
+		{D10A7351-8000-4C10-96E7-5C2B3C2D99B9}.Release|Win32.ActiveCfg = Release|Win32
+		{D10A7351-8000-4C10-96E7-5C2B3C2D99B9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
